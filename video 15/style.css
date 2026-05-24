@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(240, 240, 240);
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+ol{
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+p{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
