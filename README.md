@@ -100,3 +100,4 @@ This course material is provided for educational purposes. Please respect the or
 **Happy Learning! 🚀**
 
 Start with Video 1 and progress sequentially for the best learning experience.
+&copyright all rights are resevered
